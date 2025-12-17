@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<FinalDraft DocumentType="Script" Template="No" Version="1">
+  <Content>
+    <!-- Szene 1: Nur-Dialog-Version -->
+    <Paragraph Type="Scene Heading" Number="1">EXT. ALIEN PLANET SURFACE – DAY</Paragraph>
+    <Paragraph Type="Character">SÖDER</Paragraph>
+    <Paragraph Type="Dialogue">Hello, Mars- äh, Man, oda, Mars-Wo-man. Kann ich dir, ihnen, also you, the Light zeigen?</Paragraph>
+    <Paragraph Type="Character">DER ALIEN</Paragraph>
+    <Paragraph Type="Parenthetical">(schaut neugierig)</Paragraph>
+    <Paragraph Type="Dialogue"></Paragraph>
+    <Paragraph Type="Character">SÖDER</Paragraph>
+    <Paragraph Type="Dialogue">Äh. Also, I sink, you mean yes, hah?</Paragraph>
+    <Paragraph Type="Character">DER ALIEN</Paragraph>
+    <Paragraph Type="Parenthetical">(schaut weiterhin neugierig, lupft aber die Augenbrauen ein bisschen nach "the Light zeigen")</Paragraph>
+    <Paragraph Type="Dialogue"></Paragraph>
+    <Paragraph Type="Character">SÖDER</Paragraph>
+    <Paragraph Type="Dialogue">Ah, äh, "hm" in Bavaria means "Freile". Also "yes", nein "ja", wenn man mit Breussen redet. It can also mean "Nah", also "nah" kann es ach heißen, aba das macht nix, ich zeige Dir trotzdem jetzt "the Light", damit du was lernst.</Paragraph>
+    <Paragraph Type="Character">DER ALIEN</Paragraph>
+    <Paragraph Type="Parenthetical">(nickt und schaut gönnerhaft) Hmm!</Paragraph>
+    <Paragraph Type="Dialogue"></Paragraph>
+    <Paragraph Type="Character">SÖDER</Paragraph>
+    <Paragraph Type="Dialogue">Yes, wir haben eine Light-Kultur dabei.</Paragraph>
+    <Paragraph Type="Character">DER ALIEN</Paragraph>
+    <Paragraph Type="Dialogue">Oooh.</Paragraph>
+    <Paragraph Type="Character">SÖDER</Paragraph>
+    <Paragraph Type="Dialogue">Sis is our best Weißbier Light. Leichte Weiße, weißt? Also, a Light Weißbier.</Paragraph>
+    <Paragraph Type="Character">DER ALIEN</Paragraph>
+    <Paragraph Type="Parenthetical">(schaut etwas ungläubig, und man weiß nicht, ob er einfach lieber ein normales Weißbier wollte …)</Paragraph>
+    <Paragraph Type="Dialogue"></Paragraph>
+    <Paragraph Type="Character">SÖDER</Paragraph>
+    <Paragraph Type="Dialogue">I know, is only light Kultur, but very good! I showed you se light Weißbier from se Brauerei…</Paragraph>
+
+    <!-- Szene 1B: Überarbeitete Timing-Korrektur -->
+    <Paragraph Type="Scene Heading" Number="2">EXT. ALIEN PLANET SURFACE – DAY (SCENE 1B)</Paragraph>
+    <Paragraph Type="Character">SÖDER</Paragraph>
+    <Paragraph Type="Dialogue">Hello, Mars- äh, Man, oda, Mars-Wo-man. Kann ich dir, ihnen, also you, the Light zeigen?</Paragraph>
+    <Paragraph Type="Character">DER ALIEN</Paragraph>
+    <Paragraph Type="Parenthetical">(schaut neugierig)</Paragraph>
+    <Paragraph Type="Dialogue"></Paragraph>
+    <Paragraph Type="Character">SÖDER</Paragraph>
+    <Paragraph Type="Dialogue">Äh. Also, I sink, you mean yes, hah?</Paragraph>
+    <Paragraph Type="Character">SÖDER</Paragraph>
+    <Paragraph Type="Dialogue">Ah, äh, "hm" in Bavaria means "Freile" … ich zeige Dir trotzdem jetzt "the Light", damit du was lernst.</Paragraph>
+    <Paragraph Type="Character">DER ALIEN</Paragraph>
+    <Paragraph Type="Parenthetical">(lupft jetzt, exakt an dieser Stelle, die Augenbrauen)</Paragraph>
+    <Paragraph Type="Dialogue"></Paragraph>
+  </Content>
+</FinalDraft>
